@@ -21,3 +21,7 @@ media/
 
 # OS
 .DS_Store
+
+# Claude Code
+.claudeignore
+CLAUDE.md
